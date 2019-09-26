@@ -16,6 +16,9 @@
     Brute-force approch:
     Here two pointer approch will tle as it will result into complexity O(S*Q).
 
+
+
+
      Simple Version
 
 Given an original sequence S and N ≤ 3501 other sequences T1, T2, T3, ... TN, test if each of the N sequences
@@ -47,6 +50,9 @@ For example, if a char ‘a’ appears within S at index 3, vii[‘a’].push_ba
 
 
 
-![Screenshot from 2019-09-26 17-56-37](https://user-images.githubusercontent.com/42641241/65689425-b2b7a800-e08a-11e9-9558-c3b0cc5de901.png)
+![Screenshot from 2019-09-26 17-56-07](https://user-images.githubusercontent.com/42641241/65689943-a253fd00-e08b-11e9-8db1-895e6294214c.png)
+![Screenshot from 2019-09-26 17-56-37](https://user-images.githubusercontent.com/42641241/65689957-a97b0b00-e08b-11e9-8fb5-599600eb4ed8.png)
+![Screenshot from 2019-09-26 17-56-53](https://user-images.githubusercontent.com/42641241/65689966-ad0e9200-e08b-11e9-9533-3842539bf680.png)
+
 
     
