@@ -17,11 +17,6 @@
     Here two pointer approch will tle as it will result into complexity O(S*Q).
 
 
-
-
-
-
-
      Simple Version
 
 Given an original sequence S and N ≤ 3501 other sequences T1, T2, T3, ... TN, test if each of the N sequences
