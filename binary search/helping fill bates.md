@@ -46,7 +46,7 @@ For example, if a char ‘a’ appears within S at index 3, vii[‘a’].push_ba
 
 
 
- ![alt text](https://ibb.co/RhMGhk8)
+ ![alt text](https://github.com/shivangraina/Competitive/issues/2#issue-498860008)
 
 
     
