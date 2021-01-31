@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include<bits/stdc++.h>
 # define ll long long
 using namespace std;
 # define inf 1000000000
